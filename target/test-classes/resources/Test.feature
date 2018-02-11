@@ -23,6 +23,7 @@ Feature: Login
  Valid credentials
  Invalid credentials
  
+ Background:
  
  Scenario: Valid credentials
  Given I am able to access the magento web page 
